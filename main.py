@@ -102,7 +102,7 @@ if __name__ == "__main__":
                     'id': current_id,
                     'video_id': v_id,
                     'video_source_path': path,
-                    'laundry': 'no',
+                    '': '',
                     'basic_file_pic_url': f"data/frames/item_{current_id}.jpg",
                     'refined_file_pic_url': f"data/refined_frames/item_{current_id}_refined.jpg",
                     'studio_file_pic_url': f"data/studio_frames/item_{current_id}_final.jpg"
